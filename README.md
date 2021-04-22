@@ -8,3 +8,5 @@ Se plantea la siguiente estructura de carpetas:
 4. Documentos de grado: en esta carpeta, una vez se haya aprobado el proyecto, se deben subir los formatos que solicita la facultad y la biblioteca para poder obtener su título profesional de tecnólogo o ingeniero.
 
 >> **Los proyectos que se encuentran inactivos y que son de alcance institucional deben presentar en este periodo (IP 2021) esta estructura, hasta donde fue notificado el avance a su director, de no hacerlo sus proyectos serán cancelados y redirigidos hacia otros estudiantes que se encuentren activos.**
+
+>>**El nombre del repositorio debe estar, como se muestra en este ejemplo, conformado por el primer apellido y primer nombre de cada integrante.**
