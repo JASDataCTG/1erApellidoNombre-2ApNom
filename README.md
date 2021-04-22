@@ -1,4 +1,4 @@
-# PLANTILLA DE REPOSITORIO PARA LOS PROYECTOS DE GRADO DE LA CURN
+# PLANTILLA DE REPOSITORIO PARA LOS PROYECTOS DE GRADO DE LA CORPORACIÓN UNIVERSITARIA RAFAEL NÚÑEZ
 ![Logo de la CURN](https://atlas.curn.edu.co/public/web/images/identidad_corporativa/LOGO-CURN-NARANJA.png)
 Con el fin de poder hacer los seguimientos respectivos de los proyectos de grado, en especial del código fuente que vienen desarrollando, deben tener un repositorio compartido con los docentes tutor, cotutor, asesor y coordinador de investigación de la facultad.
 Se plantea la siguiente estructura de carpetas:
