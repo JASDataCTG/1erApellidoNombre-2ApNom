@@ -1,4 +1,4 @@
-# PLANTILLA DE REPOSITORIO PARA LOS PROYECTOS DE GRADO DE LA CORPORACIÓN UNIVERSITARIA RAFAEL NÚÑEZ
+# PLANTILLA DE REPOSITORIO PARA LOS PROYECTOS DE GRADO DE LA FACULTAD DE INGENIERÍA DE LA CORPORACIÓN UNIVERSITARIA RAFAEL NÚÑEZ
 ![Logo de la CURN](https://user-images.githubusercontent.com/10506556/115746641-1afb6800-a35a-11eb-9e36-e906e38b3932.png)
 Con el fin de poder hacer los seguimientos respectivos de los proyectos de grado, en especial del código fuente que vienen desarrollando, deben tener un repositorio compartido con los docentes tutor, cotutor, asesor y coordinador de investigación de la facultad, para esto vaya a la configuración de Git y agreguelos como colaboradores.
 Se plantea la siguiente estructura de carpetas:
